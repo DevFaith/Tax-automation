@@ -21,6 +21,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+*.firebaserc
 
 # Ignore node_modules folder
 node_modules/
